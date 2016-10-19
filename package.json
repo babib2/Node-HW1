@@ -1,0 +1,6 @@
+{"dependencies": {
+ "ansi" : "*",
+ "hashish" : "*",
+ "colors" : "*",
+ "web-audio-api" : "*"
+}}
